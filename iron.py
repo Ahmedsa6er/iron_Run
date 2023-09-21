@@ -1,0 +1,362 @@
+import time
+import pyautogui
+import win32api
+import win32con
+import sys
+
+time.sleep(4)
+def click():
+    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN, 0, 0)
+    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, 0, 0)
+def click1():
+    win32api.mouse_event(win32con.MOUSEEVENTF_RIGHTDOWN, 0, 0)
+    win32api.mouse_event(win32con.MOUSEEVENTF_RIGHTUP, 0, 0)
+
+def main():
+    start_time = time.time()
+    while time.time() - start_time < 21600 :
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(931,1011)
+        click()
+        time.sleep(5)
+#############################
+        pyautogui.moveTo(615,726)
+        click()
+        time.sleep(5)
+############################
+        pyautogui.moveTo(909,529)
+        click()
+        time.sleep(5)
+############################>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+##################################################################################################
+        ################################1
+        pyautogui.moveTo(1735,799)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1693,839)
+        click()
+        time.sleep(1)
+        ################################2
+        pyautogui.moveTo(1775,796)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1749,836)
+        click()
+        time.sleep(1)
+        ################################3
+        pyautogui.moveTo(1818,801)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1782,838)
+        click()
+        time.sleep(1)
+        ################################4
+        pyautogui.moveTo(1855,798)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1813,841)
+        click()
+        time.sleep(1)
+        ################################21
+        pyautogui.moveTo(1735,837)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1699,875)
+        click()
+        time.sleep(1)
+        ################################22
+        pyautogui.moveTo(1774,836)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1744,875)
+        click()
+        time.sleep(1)
+        ################################23
+        pyautogui.moveTo(1819,833)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1784,875)
+        click()
+        time.sleep(1)
+        ################################24
+        pyautogui.moveTo(1858,836)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1823,879)
+        click()
+        time.sleep(1)
+        ################################31
+        pyautogui.moveTo(1734,873)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1698,911)
+        click()
+        time.sleep(1)
+        ################################32
+        pyautogui.moveTo(1774,870)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1739,912)
+        click()
+        time.sleep(1)
+        ################################33
+        pyautogui.moveTo(1812,868)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1781,910)
+        click()
+        time.sleep(1)
+        ################################34
+        pyautogui.moveTo(1857,872)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1809,915)
+        click()
+        time.sleep(1)
+        ################################41
+        pyautogui.moveTo(1730,905)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1690,949)
+        click()
+        time.sleep(1)
+        ################################42
+        pyautogui.moveTo(1771,908)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1737,948)
+        click()
+        time.sleep(1)
+        ################################43
+        pyautogui.moveTo(1816,909)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1778,949)
+        click()
+        time.sleep(1)
+        ################################44
+        pyautogui.moveTo(1859,909)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1819,951)
+        click()
+        time.sleep(1)
+        ################################51
+        pyautogui.moveTo(1732,939)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1688,979)
+        click()
+        time.sleep(1)
+        ################################52
+        pyautogui.moveTo(1773,942)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1734,982)
+        click()
+        time.sleep(1)
+        ################################53
+        pyautogui.moveTo(1819,946)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1778,985)
+        click()
+        time.sleep(1)
+        ################################54
+        pyautogui.moveTo(1855,942)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1813,984)
+        click()
+        time.sleep(1)
+        ################################61
+        pyautogui.moveTo(1736,984)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1699,1022)
+        click()
+        time.sleep(1)
+        ################################62
+        pyautogui.moveTo(1775,981)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1732,1023)
+        click()
+        time.sleep(1)
+        ################################63
+        pyautogui.moveTo(1817,977)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1774,1020)
+        click()
+        time.sleep(1)
+        ################################64
+        pyautogui.moveTo(1854,980)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1812,1019)
+        click()
+        time.sleep(1)
+        ################################71
+        pyautogui.moveTo(1735,1016)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1695,1042)
+        click()
+        time.sleep(1)
+        ################################72
+        pyautogui.moveTo(1776,1017)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1740,1036)
+        click()
+        time.sleep(1)
+        ################################73
+        pyautogui.moveTo(1817,1019)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1774,1037)
+        click()
+        time.sleep(1)
+        ################################74
+        pyautogui.moveTo(1860,1015)
+        click1()
+        time.sleep(1)
+        pyautogui.moveTo(1818,1040)
+        click()
+        time.sleep(1)
+    sys.exit()
+if __name__ == "__main__":
+    main()
+    
